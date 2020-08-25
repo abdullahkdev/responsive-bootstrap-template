@@ -63,7 +63,9 @@ figure {
 [class*="col-"] {
     padding: 1rem;
 }
-
+.img-width img{
+  width:100%;
+}
 
 
 
